@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "brave-ddexvalidator"
+name = "mtl-ddexvalidator"
 version = "0.1.0"
 description = "users can upload a DDEX XML file, and the application will validate it against a DDEX XSD (XML Schema Definition)"
-authors = ["Mariusz Smenżyk <mariusz@bravelab.io>"]
+authors = ["Mariusz Smenżyk <mariusz@musictechlab.io>"]
 license = "MIT"
 readme = "README.md"
 package-mode = false

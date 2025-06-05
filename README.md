@@ -7,7 +7,7 @@ This is a Django-based application for validating DDEX XML files against various
 
 ## Demo
 
-[![Demo](https://img.shields.io/badge/Demo-Live-brightgreen)](https://ddexvalidator.bravelab.io)
+[![Demo](https://img.shields.io/badge/Demo-Live-brightgreen)](https://ddexvalidator.musictechlab.io)
 
 ## Features
 - Validate DDEX XML files by uploading or pasting XML content.
@@ -19,8 +19,8 @@ This is a Django-based application for validating DDEX XML files against various
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/bravelab/brave-ddexvalidator.git
-   cd brave-ddexvalidator
+   git clone https://github.com/musictechlab/mtl-ddexvalidator.git
+   cd mtl-ddexvalidator
    ```
 
 2. **Set Up Poetry Environment**
