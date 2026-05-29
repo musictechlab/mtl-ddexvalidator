@@ -1,6 +1,8 @@
 
 # DDEX XML Validator
 
+[![Built by MusicTech Lab](https://musictechlab.io/oss/build-by-musictechlab.io.svg)](https://musictechlab.io)
+
 ![Screenshot of the DDEX Validator](./static/screenshot.png)
 
 This is a Django-based application for validating DDEX XML files against various DDEX schema versions. Users can upload an XML file or paste XML text to validate against specific DDEX schemas.
@@ -130,7 +132,6 @@ The following DDEX schema versions are dynamically fetched and supported by this
 - ERN 3.8.2
 - ERN 4.1.1
 - (Additional versions based on the available schemas in the DDEX directory)
-
 
 ## License
 This project is licensed under the MIT License.
